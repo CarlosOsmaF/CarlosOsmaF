@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">A System Administrator and (I Hope) a Future Software Developer from Spain</h3>
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosOsmaF)] 
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosOsmaF)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosOsmaF)](https://github.com/CarlosOsmaF/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
